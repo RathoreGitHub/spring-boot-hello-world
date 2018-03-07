@@ -17,8 +17,10 @@ public class SpringBootApps {
 	 * @param args
 	 */
 	public static void main(String[] params) {
-		
+		//To-DO ssasd
+		try{
 		SpringApplication.run(SpringBootApps.class, params);
+		}catch(Exception e){}
 		
 
 	}
