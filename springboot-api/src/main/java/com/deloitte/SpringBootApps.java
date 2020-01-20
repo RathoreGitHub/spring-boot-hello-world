@@ -18,6 +18,7 @@ public class SpringBootApps {
 	 */
 	public static void main(String[] params) {
 		
+		
 		SpringApplication.run(SpringBootApps.class, params);
 		
 
